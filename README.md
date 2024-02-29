@@ -1,8 +1,8 @@
 # (Application Name)
-Funiture Webbsite
+Javascript Flashcard
 
 #### (Brief Description of Application)
-
+This is an application thats describes javascripts, Jquery and other Functions
 
 #### By (BALEVANI)
 
@@ -11,11 +11,10 @@ Funiture Webbsite
 * html
 * css
 * javascript
-* box-icon
-* google font
+
 
 ## Description
-This is a website for funiture and it's responsive for any device screen. You purchase funitures on it.
+This is a website for Flashcard Functions Only
 
 ## Setup/Installation Requirements
 
@@ -37,9 +36,28 @@ adebayoadeyeye224@gmail.com
 adebayoadeyeye889@gmail.com
 +(234)07011905925
 
-Instagram: Balevani_jnr
-Snapchat:Balevani_jnr
+Instagram: g0dwin_
+Snapchat:notalive07
 TikTok:Balevani_jnr
 
 
 Thanks for seeing us...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
