@@ -11,6 +11,8 @@ This is an application thats describes javascripts, Jquery and other Functions
 * html
 * css
 * javascript
+* bootstrap
+* jquery
 
 
 ## Description
