@@ -2,17 +2,17 @@
 Javascript Flashcard
 
 #### (Brief Description of Application)
-This is an application thats describes javascripts, Jquery and other Functions
+This is an application thats describes javascripts, Jquery and other Functions 
 
 #### By (BALEVANI)
 
-## Technologies Used
+<!-- ## Technologies Used
 
 * html
 * css
 * javascript
 * bootstrap
-* jquery
+* jquery -->
 
 
 ## Description
